@@ -2,7 +2,6 @@ import { cssManager, store } from "dom-wizard";
 import dialog from "../components/dialog";
 import emptyView from "../components/emptyView";
 import header from "../components/header";
-import todo from "../components/todo";
 import todosView from "../components/todosView";
 
 cssManager.createCSSRules([
