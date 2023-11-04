@@ -18,6 +18,8 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
-    "dom-wizard": "^0.0.2"
+    "bootstrap-icons": "^1.11.1",
+    "dom-wizard": "^0.0.6",
+    "nanoid": "^5.0.2"
   }
 }
